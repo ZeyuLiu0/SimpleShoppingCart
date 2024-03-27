@@ -1,0 +1,23 @@
+.cart {
+  background-color: black;
+}
+img {
+  position: relative;
+}
+.numberOfItems {
+  width: 20px;
+  height: 20px;
+  background-color: yellow;
+  color: black;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.here {
+  width: 500px;
+  height: auto;
+}
+
+.total {
+  color: white;
+}

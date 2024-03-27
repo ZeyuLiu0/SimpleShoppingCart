@@ -1,0 +1,17 @@
+.viewport {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+.left {
+  width: 400px;
+}
+
+.right {
+  width: 1000px;
+}
+
+.cart {
+  align-items: 200px;
+}

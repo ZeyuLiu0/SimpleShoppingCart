@@ -1,0 +1,15 @@
+.productsSection {
+  display: flex;
+  margin: 100px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.productContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.productItem {
+  margin: 20px;
+}
